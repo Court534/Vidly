@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# A very basic movie database built with React and JavaScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
