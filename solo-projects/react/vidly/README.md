@@ -1,4 +1,4 @@
-# A very basic movie database built with React and JavaScript
+# A very basic CRUD based movie database built with React and JavaScript
 
 
 ## Available Scripts
