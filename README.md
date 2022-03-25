@@ -31,8 +31,7 @@ Go to the project directory
 Start the server
 
 ```bash
-  - npm init and go to http://localhost:3000/ on your browser
-  - You may have to run 'npm update' if it doesn't launch the server using 'npm start'
+  - npm start and go to http://localhost:3000/ on your browser
 ```
 
 You can see we satrt with 9 movies in the database
