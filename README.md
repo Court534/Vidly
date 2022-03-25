@@ -34,6 +34,10 @@ You can see we satrt with 9 movies in the database
 Then we delete two of the movies and it automatically updates and now shows there and now only 6 movies in the database
 ![vidlyshreenshot2](https://user-images.githubusercontent.com/85391216/160173086-d973e0ad-9da0-4755-8d92-0cb9cfef1294.png)
 
+This was a basic project but taught me key things such as:
+- Setting up a react project 
+- React components
+- Conditional rendering
 
 ## Authors
 
