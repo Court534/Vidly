@@ -27,7 +27,7 @@ Start the server
   npm init and go to http://localhost:3000/ on your browser
 ```
 
-
+# You can see we satrt with 9 movies in the database
 ![vidlyscreenshot1](https://user-images.githubusercontent.com/85391216/160173048-ae7027d8-b16e-4392-bd52-d49b43332018.png)
 
 ![vidlyshreenshot2](https://user-images.githubusercontent.com/85391216/160173086-d973e0ad-9da0-4755-8d92-0cb9cfef1294.png)
