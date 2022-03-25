@@ -19,19 +19,20 @@ This was a basic project but taught me key things such as:
 Clone the project
 
 ```bash
-  git clone https://github.com/Court534/vidly
+  - git clone https://github.com/Court534/vidly
 ```
 
 Go to the project directory
 
 ```bash
-  cd vidly
+  - cd vidly
 ```
 
 Start the server
 
 ```bash
-  npm init and go to http://localhost:3000/ on your browser
+  - npm init and go to http://localhost:3000/ on your browser
+  - You may have to run 'npm update' if it doesn't launch the server using 'npm start'
 ```
 
 You can see we satrt with 9 movies in the database
